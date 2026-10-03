@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "librarian_roller",
+  "version": "${version}",
+  "name": "Librarian Roller",
+  "description": "Minecraft 1.21.1 için otomatik köylü kürsü kırma, yerleştirme ve istenen büyülü kitabı bulma modu.",
+  "authors": [
+    "Antigravity"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/librarian_roller/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.roller.LibrarianRollerMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

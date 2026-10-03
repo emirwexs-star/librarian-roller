@@ -1,0 +1,16 @@
+{
+  "key.category.librarian_roller": "Librarian Roller",
+  "key.librarian_roller.open_gui": "Open Config Menu (Right Shift)",
+  "key.librarian_roller.toggle": "Toggle Automation Start/Stop",
+  "text.librarian_roller.title": "Librarian Roller - Villager Automation",
+  "text.librarian_roller.status": "Status: ",
+  "text.librarian_roller.status.idle": "STOPPED",
+  "text.librarian_roller.status.searching_villager": "SEARCHING VILLAGER",
+  "text.librarian_roller.status.placing_lectern": "PLACING LECTERN",
+  "text.librarian_roller.status.waiting_profession": "WAITING FOR PROFESSION",
+  "text.librarian_roller.status.checking_trades": "CHECKING TRADES",
+  "text.librarian_roller.status.breaking_lectern": "BREAKING LECTERN",
+  "text.librarian_roller.status.waiting_reset": "WAITING FOR PROFESSION RESET",
+  "text.librarian_roller.status.target_found": "BOOK FOUND!",
+  "text.librarian_roller.status.error_timeout": "TIMEOUT ERROR"
+}

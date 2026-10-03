@@ -1,0 +1,16 @@
+{
+  "key.category.librarian_roller": "Librarian Roller",
+  "key.librarian_roller.open_gui": "Ayar Menüsünü Aç (Right Shift)",
+  "key.librarian_roller.toggle": "Otomasyonu Başlat / Durdur",
+  "text.librarian_roller.title": "Librarian Roller - Köylü Büyü Otomasyonu",
+  "text.librarian_roller.status": "Durum: ",
+  "text.librarian_roller.status.idle": "DURDURULDU",
+  "text.librarian_roller.status.searching_villager": "KÖYLÜ ARANIYOR",
+  "text.librarian_roller.status.placing_lectern": "KÜRSÜ YERLEŞTİRİLİYOR",
+  "text.librarian_roller.status.waiting_profession": "KÖYLÜNÜN MESLEĞİ BEKLENİYOR",
+  "text.librarian_roller.status.checking_trades": "TİCARET KONTROL EDİLİYOR",
+  "text.librarian_roller.status.breaking_lectern": "KÜRSÜ KIRILIYOR",
+  "text.librarian_roller.status.waiting_reset": "MESLEK SIFIRLANMASI BEKLENİYOR",
+  "text.librarian_roller.status.target_found": "KİTAP BULUNDU!",
+  "text.librarian_roller.status.error_timeout": "ZAMAN AŞIMI HATASI"
+}
